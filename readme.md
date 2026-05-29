@@ -1,6 +1,6 @@
 # Ultimate ComfyUI & AI Resources Hub
 
-A comprehensive master list of ComfyUI custom nodes, core AI frameworks, video/audio models, cloud pipelines, and workflow utilities.
+A comprehensive master list of ComfyUI custom nodes, core AI frameworks, video/audio models, cloud pipelines, checkpoints, and workflow utilities.
 
 ---
 
@@ -15,6 +15,7 @@ A comprehensive master list of ComfyUI custom nodes, core AI frameworks, video/a
 * [🌐 Standalone UI Engines & Local Environment Deployments](#-standalone-ui-engines--local-environment-deployments)
 * [☁️ Cloud Platforms, External APIs & Script Environments](#️-cloud-platforms-external-apis--script-environments)
 * [📖 Workflows, Video Tutorials & Graphic Plugins](#-workflows-video-tutorials--graphic-plugins)
+* [🧱 ComfyUI Checkpoints & Base Models](#-comfyui-checkpoints--base-models)
 * [📦 Framework Dependencies, Libraries & Miscellaneous Bookmarks](#-framework-dependencies-libraries--miscellaneous-bookmarks)
 
 ---
@@ -176,6 +177,32 @@ Educational guides, community hubs, pre-built template files, and design suite e
 * [Auto-Photoshop Stable Diffusion Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) — Connects local stable diffusion rendering loops inside standard Adobe Photoshop projects.
 * [Urdu-TTS Web Application](https://ahmedhanzala.github.io/urdu-tts/) — Targeted regional voice translation engine handling specialized phonetic text files.
 * [Wyrde ComfyUI Workflows](https://github.com/wyrde/wyrde-comfyui-workflows/tree/main/hr-fix-upscale) — Graph templates prioritizing high-resolution repair loops and upscale steps.
+
+## 🧱 ComfyUI Checkpoints & Base Models
+
+Curated collection of high-fidelity open weights base models, fine-tunes, and stylistic checkpoints for SD 1.5, SDXL, and Turbo pipelines.
+
+| Resource / Repository | Description |
+| :--- | :--- |
+| [Animagine XL V3](https://civitai.com/models/212426?modelVersionId=239306) | Premier anime-focused fine-tune model built on the SDXL architecture. |
+| [Civitai Model 1545303](https://civitai.com/models/1545303?modelVersionId=1748507) | Modern generation fine-tune checkpoint tailored for complex illustration styles. |
+| [Pony Diffusion V6 XL](https://civitai.com/models/297501?modelVersionId=357959) | Highly versatile SDXL model engineered for stylized, cartoon, and fine art prompt execution. |
+| [DreamShaper XL](https://civitai.com/models/129922) | All-in-one photorealistic and semi-stylized foundation checkpoint derived from SDXL. |
+| [MagMix Checkpoint](https://civitai.com/models/18523/magmix) | Popular aesthetic-driven Stable Diffusion 1.5 multi-model blend. |
+| [AbsoluteReality Mix](https://civitai.com/models/81458?modelVersionId=132760) | High-fidelity photorealistic SD 1.5 checkpoint processing organic light maps well. |
+| [ArteYou Style Model](https://civitai.com/models/83429/arteyou) | Highly stylized creative checkpoint emphasizing illustrative digital artwork finishes. |
+| [Artius 1.5 Foundation](https://civitai.com/models/47691/artius-1-5) | Finetuned stable diffusion 1.5 core asset specialized in rendering cinematic scenery. |
+| [CyberRealistic Base](https://civitai.com/models/15003/cyberrealistic) | Renowned photorealistic asset producing balanced textures, skin detail, and anatomy. |
+| [Civitai Model 123605](https://civitai.com/models/123605) | Specialized multi-concept model configuration optimized for modern canvas logic. |
+| [Juggernaut Engine](https://civitai.com/models/46422/juggernaut) | Legendary cinematic model series famed for prompt adherence and realistic grading. |
+| [EpicRealism Fine-Tune](https://civitai.com/models/93028?modelVersionId=99169) | High-tier photographic SD 1.5 checkpoint eliminating typical generative noise structures. |
+| [Realistic Vision V5](https://civitai.com/models/4201?modelVersionId=501240) | The definitive benchmark checkpoint for photorealism pipelines inside standard node runs. |
+| [ToonYou Canvas Checkpoint](https://civitai.com/models/30240?modelVersionId=125771) | Richly blended 3D/2D animation checkpoint producing consistent comic profiles. |
+| [CyberRealistic Upgraded Version](https://civitai.com/models/15003?modelVersionId=560903) | Alternative modern version patch updating model responses and prompt clarity profiles. |
+| [RealVisXL V4.0 (HuggingFace)](https://huggingface.co/SG161222/RealVisXL_V4.0) | Top-tier hyper-realistic SDXL model engineered for commercial photographic output. |
+| [SDXL Unstable Diffusers YamerMix](https://civitai.com/models/84040/sdxl-unstable-diffusers-yamermix) | Dynamic model configuration processing fluid, artistic multi-genre illustrations. |
+| [WildCardX XL Turbo](https://civitai.com/models/293331/wildcardx-xl-turbo) | Fast step-distilled model variant yielding production frames in fewer inference runs. |
+| [LEOSAM HelloWorld XL Variant](https://civitai.com/models/231258) | High-end photo-realistic rendering mix executing precise composition structures. |
 
 ## 📦 Framework Dependencies, Libraries & Miscellaneous Bookmarks
 
